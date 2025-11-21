@@ -123,7 +123,7 @@ Realistic evaluation of ChatGPT, Claude, Copilot, and small LLMs on maintenance/
 
 ## 🧠 About Me
 
-I’m a software engineering leader and technical product owner with 12+ years of experience building and operating mission-critical systems in defense and enterprise environments. I’ve led cross-functional teams (up to ~17 engineers) delivering high-availability logistics, maintenance, and DevSecOps platforms. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}  
+I’m a software engineering leader and technical product owner with 12+ years of experience building and operating mission-critical systems in defense and enterprise environments. I’ve led cross-functional teams (up to ~17 engineers) delivering high-availability logistics, maintenance, and DevSecOps platforms.  
 
 Recently, I’ve been transitioning my focus toward **AI/ML, LLM agents, and applied machine learning for real-world operations**. My goal is to:
 
